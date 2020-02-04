@@ -15,7 +15,7 @@ class Contact extends React.Component{
                             style={{height:'250px'}}
                             
                         />
-                        <p style={{width:'75%', margin:'auto', paddingTop:'1em'}}>Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri endüstri standardı sahte metinler olarak kullanılmıştır.</p>
+                        <p style={{width:'75%', margin:'auto', paddingTop:'1em'}}>Sakarya Üniversitesi Bilişim Sistemleri Mühendisliği 4.sınıf öğrencisiyim.</p>
                     </Cell>
                     <Cell col={6}>
                         <h2>Contact Me</h2>
